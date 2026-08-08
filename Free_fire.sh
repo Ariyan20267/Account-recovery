@@ -158,7 +158,7 @@ print_status() {
 # ============================================================
 download_animation() {
     local folder_name="$1"
-    local repo_url="https://github.com/Ariyan20267/Gen.git"
+    local repo_url="https://github.com/Ariyan20267/Account-recovery.git"
     local target_path="$2"
     
     echo -e "${CYAN}${BOLD}  ══════════════════════════════════════════════${RESET}"
